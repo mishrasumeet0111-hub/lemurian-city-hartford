@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hartford.lemurianstudios.com/sitemap.xml
